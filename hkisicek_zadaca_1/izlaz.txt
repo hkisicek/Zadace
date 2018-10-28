@@ -1,0 +1,48 @@
+
+---------------------------KRECEM U POSTAVLJANJE UREDJAJA...-----------------------
+Na mjesto: FOI 1 - ulazna vrata dodajem senzor dim
+Na mjesto: FOI 1 - ulazna vrata dodajem senzor svjetlo
+Na mjesto: FOI 1 - ulazna vrata dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - dvorišna vrata dodajem senzor vlaga
+Na mjesto: FOI 1 - dvorišna vrata dodajem senzor unutarnja temperatura
+Na mjesto: FOI 1 - dvorišna vrata dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - parkiralište dodajem senzor unutarnja temperatura
+Na mjesto: FOI 1 - parkiralište dodajem senzor vjetar
+Na mjesto: FOI 1 - parkiralište dodajem senzor vlaga
+Na mjesto: FOI 1 - parkiralište dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - vijećnica dodajem senzor prepreka
+Na mjesto: FOI 1 - vijećnica dodajem senzor svjetlo
+Na mjesto: FOI 1 - vijećnica dodajem senzor kontakt
+Na mjesto: FOI 1 - vijećnica dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - vijećnica dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - vijećnica dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - knjižnica dodajem senzor svjetlo
+Na mjesto: FOI 1 - knjižnica dodajem senzor kontakt
+Na mjesto: FOI 1 - knjižnica dodajem senzor vlaga
+Na mjesto: FOI 1 - knjižnica dodajem senzor svjetlo
+Na mjesto: FOI 1 - knjižnica dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - knjižnica dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - dvorana 1 dodajem senzor kontakt
+Na mjesto: FOI 1 - dvorana 1 dodajem senzor kontakt
+Na mjesto: FOI 1 - dvorana 1 dodajem senzor vlaga
+Na mjesto: FOI 1 - dvorana 1 dodajem senzor unutarnja temperatura
+Na mjesto: FOI 1 - dvorana 1 dodajem senzor kontakt
+Na mjesto: FOI 1 - dvorana 1 dodajem senzor vlaga
+Na mjesto: FOI 1 - dvorana 1 dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - dvorana 1 dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - dvorana 1 dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - dvorana 1 dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - restoran dodajem senzor unutarnja temperatura
+Na mjesto: FOI 1 - restoran dodajem senzor smjer vjetra
+Na mjesto: FOI 1 - restoran dodajem senzor kontakt
+Na mjesto: FOI 1 - restoran dodajem senzor svjetlo
+Na mjesto: FOI 1 - restoran dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - restoran dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - sistem sala dodajem senzor vlaga
+Na mjesto: FOI 1 - sistem sala dodajem senzor unutarnja temperatura
+Na mjesto: FOI 1 - sistem sala dodajem senzor dim
+Na mjesto: FOI 1 - sistem sala dodajem senzor svjetlo
+Na mjesto: FOI 1 - sistem sala dodajem senzor prepreka
+Na mjesto: FOI 1 - sistem sala dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - sistem sala dodajem aktuator otvaranje/zatvaranje vrata
+Na mjesto: FOI 1 - sistem sala dodajem aktuator otvaranje/zatvaranje vrata
